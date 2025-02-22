@@ -2,6 +2,14 @@
 
 Proctor AI is an intelligent online proctoring system that leverages artificial intelligence to monitor and verify test-takers during exams. It provides an automated and efficient solution for online assessments, ensuring security and integrity through real-time face detection and tracking. The system alerts if multiple faces are detected, if the test-taker moves away, or if any suspicious activities occur.
 
+## Default Credentials
+- **User Account:**
+  - Username: `anish`
+  - Password: `admin`
+- **Admin Account:**
+  - Username: `admin`
+  - Password: `admin123`
+
 ## Features
 - **AI-powered Face Detection**: Utilizes TensorFlow.js and MediaPipe to track and detect faces in real-time.
 - **Real-time Monitoring**: Implements WebSockets and Socket.io for continuous, real-time tracking.
